@@ -57,6 +57,6 @@
 * [BeagleBone](http://elinux.org/Beagleboard:BeagleBoneBlack)
 * [Arduino](http://playground.arduino.cc/)
 * [Derek Molloy](http://derekmolloy.ie/)
-* [Ciruit Lab](https://www.circuitlab.com/)
+* [Circuit Lab](https://www.circuitlab.com/)
 * [element14](http://www.newark.com/?COM=element14_store_Home)
 * [Electronics Tutorials](http://www.electronics-tutorials.ws/)
