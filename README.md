@@ -56,6 +56,7 @@
 * [Raspberry Pi](http://elinux.org/RPi_Hub)
 * [BeagleBone](http://elinux.org/Beagleboard:BeagleBoneBlack)
 * [Arduino](http://playground.arduino.cc/)
+* [Particle](https://www.particle.io/prototype)
 * [Derek Molloy](http://derekmolloy.ie/)
 * [Circuit Lab](https://www.circuitlab.com/)
 * [element14](http://www.newark.com/?COM=element14_store_Home)
