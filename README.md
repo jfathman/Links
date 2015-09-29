@@ -66,4 +66,4 @@
 ##### Downloads
 * [Raspberry Pi](https://www.raspberrypi.org/downloads/raspbian/)
 * [BeagleBone](http://beagleboard.org/latest-images)
-* [FreeBSD](ftp://ftp.freebsd.org/pub/FreeBSD/snapshots/arm/armv6/ISO-IMAGES/11.0)
+* [FreeBSD](http://ftp.freebsd.org/pub/FreeBSD/snapshots/arm/armv6/ISO-IMAGES/11.0/)
