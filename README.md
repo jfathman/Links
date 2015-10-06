@@ -35,6 +35,7 @@
 * [vim](http://vim.rtorr.com/)
 * [tmux](http://tmuxcheatsheet.com/)
 * [Nginx](http://nginx.org/en/docs/)
+* [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
 * [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
 * [FreeBSD Handbook](https://www.freebsd.org/doc/handbook/)
