@@ -22,6 +22,7 @@
 * [Mocha](https://mochajs.org/)
 * [Chai](http://chaijs.com/)
 * [lodash](https://lodash.com/docs)
+* [Bookshelf.js](http://bookshelfjs.org/)
 * [libuv](http://docs.libuv.org/en/v1.x/)
 * [npm](https://docs.npmjs.com/)
 * [Redis](http://redis.io/commands)
