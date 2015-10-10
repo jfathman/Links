@@ -64,6 +64,7 @@
 * [Circuit Lab](https://www.circuitlab.com/)
 * [element14](http://www.newark.com/?COM=element14_store_Home)
 * [Electronics Tutorials](http://www.electronics-tutorials.ws/)
+* [Tektronix User Manual](https://physics.ucsd.edu/neurophysics/Manuals/Tektronix/TDS%201000B%20and%20TDS%202000B%20Manual.pdf)
 
 ##### Downloads
 * [Raspberry Pi](https://www.raspberrypi.org/downloads/raspbian/)
