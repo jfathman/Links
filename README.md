@@ -66,6 +66,7 @@
 * [Electronics Tutorials](http://www.electronics-tutorials.ws/)
 * [Tektronix User Manual](https://physics.ucsd.edu/neurophysics/Manuals/Tektronix/TDS%201000B%20and%20TDS%202000B%20Manual.pdf)
 * [Tektronix TDS2012](http://www.farnell.com/datasheets/104998.pdf)
+* [Fluke 187 True RMS Multimeter](http://assets.fluke.com/manuals/187_189_umeng0200.pdf)
 
 ##### Downloads
 * [Raspberry Pi](https://www.raspberrypi.org/downloads/raspbian/)
