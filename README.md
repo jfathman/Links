@@ -18,6 +18,8 @@
 * [ESLint](http://eslint.org/)
 * [Bluebird](https://github.com/petkaantonov/bluebird/blob/master/API.md)
 * [Grunt](http://gruntjs.com/getting-started)
+* [Gulp](https://github.com/gulpjs/gulp/tree/master/docs/recipes#recipes)
+* [PM2](http://pm2.keymetrics.io/)
 * [Express](http://expressjs.com/)
 * [Mocha](https://mochajs.org/)
 * [Chai](http://chaijs.com/)
