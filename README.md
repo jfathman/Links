@@ -66,6 +66,7 @@
 * [BeagleBone](http://elinux.org/Beagleboard:BeagleBoneBlack)
 * [Arduino](http://playground.arduino.cc/)
 * [Particle](https://www.particle.io/prototype)
+* [Tessel](https://tessel.io/)
 * [Microchip](http://microchip.wikidot.com/)
 * [Derek Molloy](http://derekmolloy.ie/)
 * [Circuit Lab](https://www.circuitlab.com/)
