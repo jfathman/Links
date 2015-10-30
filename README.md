@@ -27,6 +27,7 @@
 * [Express](http://expressjs.com/)
 * [Mocha](https://mochajs.org/)
 * [Chai](http://chaijs.com/)
+* [Sinon](http://sinonjs.org/docs/)
 * [lodash](https://lodash.com/docs)
 * [Bookshelf.js](http://bookshelfjs.org/)
 * [libuv](http://docs.libuv.org/en/v1.x/)
