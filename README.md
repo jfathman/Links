@@ -21,6 +21,7 @@
 * [Babel.js ECMAScript 2015 Features](https://babeljs.io/docs/learn-es2015/#ecmascript-6-features)
 * [ESLint](http://eslint.org/)
 * [Bluebird](https://github.com/petkaantonov/bluebird/blob/master/API.md)
+* [RxJS](https://github.com/Reactive-Extensions/RxJS/tree/master/doc)
 * [Grunt](http://gruntjs.com/getting-started)
 * [Gulp](https://github.com/gulpjs/gulp/tree/master/docs/recipes#recipes)
 * [PM2](http://pm2.keymetrics.io/)
