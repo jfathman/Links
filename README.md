@@ -12,8 +12,9 @@
 * [ES6 Overview](https://ponyfoo.com/articles/es6)
 * [Nginx](https://www.nginx.com/blog/)
 
-##### Webinars
+##### Webinars / Podcasts
 * [NodeSource](https://nodesource.com/resources)
+* [NodeUp](http://nodeup.com/)
 
 ##### Documentation
 * [Node.js API](https://nodejs.org/api/)
