@@ -18,6 +18,7 @@
 
 ##### Documentation
 * [Node.js API](https://nodejs.org/api/)
+* [ES6 in Node.js](https://nodejs.org/en/docs/es6/)
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [Babel.js ECMAScript 2015 Features](https://babeljs.io/docs/learn-es2015/#ecmascript-6-features)
 * [ESLint](http://eslint.org/)
