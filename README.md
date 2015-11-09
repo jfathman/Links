@@ -40,6 +40,7 @@
 * [MongoDB](https://docs.mongodb.org/manual/)
 * [PostgreSQL](http://www.postgresql.org/docs/9.4/static/index.html)
 * [LevelDB](http://leveldb.org/)
+* [Redux](http://redux.js.org/)
 * [Falcor](https://netflix.github.io/falcor/starter/what-is-falcor.html)
 * [Python](https://docs.python.org/2/)
 * [PHP](http://php.net/manual/en/langref.php)
