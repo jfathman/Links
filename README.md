@@ -37,6 +37,7 @@
 * [npm](https://docs.npmjs.com/)
 * [Redis](http://redis.io/commands)
 * [Docker](https://docs.docker.com/)
+* [RethinkDB](https://www.rethinkdb.com/)
 * [MongoDB](https://docs.mongodb.org/manual/)
 * [PostgreSQL](http://www.postgresql.org/docs/9.4/static/index.html)
 * [LevelDB](http://leveldb.org/)
