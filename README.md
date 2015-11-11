@@ -27,6 +27,7 @@
 * [Grunt](http://gruntjs.com/getting-started)
 * [Gulp](https://github.com/gulpjs/gulp/tree/master/docs/recipes#recipes)
 * [PM2](http://pm2.keymetrics.io/)
+* [Foreman[(https://github.com/strongloop/node-foreman)
 * [Express](http://expressjs.com/)
 * [Mocha](https://mochajs.org/)
 * [Chai](http://chaijs.com/)
