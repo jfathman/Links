@@ -21,6 +21,7 @@
 * [ES6 in Node.js](https://nodejs.org/en/docs/es6/)
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [Babel.js ECMAScript 2015 Features](https://babeljs.io/docs/learn-es2015/#ecmascript-6-features)
+* [Babel.js 6 Package Split](http://jamesknelson.com/the-six-things-you-need-to-know-about-babel-6/)
 * [ESLint](http://eslint.org/)
 * [Bluebird](https://github.com/petkaantonov/bluebird/blob/master/API.md)
 * [RxJS](https://github.com/Reactive-Extensions/RxJS/tree/master/doc)
