@@ -34,6 +34,7 @@
 * [Chai](http://chaijs.com/)
 * [Sinon](http://sinonjs.org/docs/)
 * [lodash](https://lodash.com/docs)
+* [ioredis](https://github.com/luin/ioredis)
 * [Bookshelf.js](http://bookshelfjs.org/)
 * [libuv](http://docs.libuv.org/en/v1.x/)
 * [npm](https://docs.npmjs.com/)
