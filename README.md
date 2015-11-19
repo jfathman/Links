@@ -16,6 +16,7 @@
 * [NodeSource](https://nodesource.com/resources)
 * [NodeUp](http://nodeup.com/)
 * [Nodevember 2015](https://www.youtube.com/user/nodevember)
+* [JavaScript Air](http://javascriptair.com/)
 
 ##### Documentation
 * [Node.js API](https://nodejs.org/api/)
