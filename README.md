@@ -70,6 +70,7 @@
 ##### Go Language
 * [Go Bootcamp](http://www.golangbootcamp.com/book)
 * [Go by Example](https://gobyexample.com/)
+* [Building Go 1.5 on Raspberry Pi](http://dave.cheney.net/2015/09/04/building-go-1-5-on-the-raspberry-pi)
 
 ##### Conferences
 * [Nodevember](http://nodevember.org/)
