@@ -66,7 +66,10 @@
 * [Speaking JavaScript](http://speakingjs.com/es5/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+##### Go Language
 * [Go Bootcamp](http://www.golangbootcamp.com/book)
+* [Go by Example](https://gobyexample.com/)
 
 ##### Conferences
 * [Nodevember](http://nodevember.org/)
