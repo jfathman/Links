@@ -17,6 +17,7 @@
 * [NodeUp](http://nodeup.com/)
 * [Nodevember 2015](https://www.youtube.com/user/nodevember)
 * [JavaScript Air](http://javascriptair.com/)
+* [Redux](https://egghead.io/series/getting-started-with-redux)
 
 ##### Documentation
 * [Node.js API](https://nodejs.org/api/)
