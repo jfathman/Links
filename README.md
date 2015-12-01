@@ -39,6 +39,7 @@
 * [lodash](https://lodash.com/docs)
 * [ioredis](https://github.com/luin/ioredis)
 * [Bookshelf.js](http://bookshelfjs.org/)
+* [MassiveJS](http://massive-js.readthedocs.org/en/latest/)
 * [libuv](http://docs.libuv.org/en/v1.x/)
 * [npm](https://docs.npmjs.com/)
 * [Redis](http://redis.io/commands)
