@@ -76,6 +76,7 @@
 * [GopherCon 2015](https://blog.golang.org/gophercon2015)
 
 ##### Misc
+* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 * [Let's Encrypt](https://letsencrypt.org/)
 
 ##### Conferences
