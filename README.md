@@ -75,6 +75,9 @@
 * [Building Go 1.5 on Raspberry Pi](http://dave.cheney.net/2015/09/04/building-go-1-5-on-the-raspberry-pi)
 * [GopherCon 2015](https://blog.golang.org/gophercon2015)
 
+##### Misc
+* [Let's Encrypt](https://letsencrypt.org/)
+
 ##### Conferences
 * [Nodevember](http://nodevember.org/)
 * [Node Interactive](http://events.linuxfoundation.org/events/node-interactive)
