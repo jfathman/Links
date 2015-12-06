@@ -70,12 +70,6 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
-##### Go Language
-* [Go Bootcamp](http://www.golangbootcamp.com/book)
-* [Go by Example](https://gobyexample.com/)
-* [Building Go 1.5 on Raspberry Pi](http://dave.cheney.net/2015/09/04/building-go-1-5-on-the-raspberry-pi)
-* [GopherCon 2015](https://blog.golang.org/gophercon2015)
-
 ##### Misc
 * [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 * [Let's Encrypt](https://letsencrypt.org/)
