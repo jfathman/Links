@@ -12,12 +12,13 @@
 * [ES6 Overview](https://ponyfoo.com/articles/es6)
 * [Nginx](https://www.nginx.com/blog/)
 
-##### Webinars / Podcasts / Presentations
+##### Webinars / Podcasts / Presentations / Guides
 * [NodeSource](https://nodesource.com/resources)
 * [NodeUp](http://nodeup.com/)
 * [Nodevember 2015](https://www.youtube.com/user/nodevember)
 * [JavaScript Air](http://javascriptair.com/)
 * [Redux](https://egghead.io/series/getting-started-with-redux)
+* [Node.js Guides](https://nodejs.org/en/docs/guides/)
 
 ##### Documentation
 * [Node.js API](https://nodejs.org/api/)
