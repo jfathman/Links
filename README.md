@@ -72,7 +72,7 @@
 
 ##### Misc
 * [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
-* [Let's Encrypt](https://letsencrypt.org/)
+* [SSL Certificates](https://letsencrypt.org/)
 
 ##### Conferences
 * [Nodevember](http://nodevember.org/)
