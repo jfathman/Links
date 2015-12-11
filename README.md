@@ -19,6 +19,7 @@
 * [JavaScript Air](http://javascriptair.com/)
 * [Redux](https://egghead.io/series/getting-started-with-redux)
 * [Node.js Guides](https://nodejs.org/en/docs/guides/)
+* [Node Interactive 2015](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ?guided_help_flow=3)
 
 ##### Documentation
 * [Node.js API](https://nodejs.org/api/)
