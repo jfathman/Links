@@ -74,6 +74,7 @@
 * [Speaking JavaScript](http://speakingjs.com/es5/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript Allonge](https://leanpub.com/javascriptallongesix/read)
 
 ##### Misc
 * [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
