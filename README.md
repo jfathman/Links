@@ -21,7 +21,7 @@
 * [Redux](https://egghead.io/series/getting-started-with-redux)
 * [Node.js Guides](https://nodejs.org/en/docs/guides/)
 * [Node Interactive 2015](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ?guided_help_flow=3)
-* [JS Tutorial Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [JavaScript Tutorial MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ##### Documentation
 * [Node.js API](https://nodejs.org/api/)
