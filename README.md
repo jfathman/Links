@@ -82,6 +82,7 @@
 
 ##### Misc
 * [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
+* [Twelve Factor App](http://12factor.net/)
 * [SSL Certificates](https://letsencrypt.org/)
 
 ##### Conferences
