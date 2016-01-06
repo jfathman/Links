@@ -94,6 +94,8 @@
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
+* [U-Boot](http://www.denx.de/wiki/U-Boot)
+* [QEMU](http://wiki.qemu.org/Main_Page)
 
 ##### Hardware
 * [Raspberry Pi](http://elinux.org/RPi_Hub)
