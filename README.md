@@ -92,6 +92,9 @@
 * [Node Summit](http://nodesummit.com/)
 * [OSCON](http://www.oreilly.com/conferences/)
 
+##### Embedded
+* [EmbToolkit](https://embtoolkit.org/)
+
 ##### Hardware
 * [Raspberry Pi](http://elinux.org/RPi_Hub)
 * [BeagleBone](http://elinux.org/Beagleboard:BeagleBoneBlack)
