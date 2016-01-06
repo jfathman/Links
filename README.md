@@ -2,8 +2,8 @@
 * [Twitter Node.js](https://twitter.com/nodejs)
 * [Reddit Node.js](https://www.reddit.com/r/node/)
 * [Reddit JavaScript](https://www.reddit.com/r/javascript/)
-* [Node Weekly](http://nodeweekly.com/issues)
 * [JavaScript Weekly](http://javascriptweekly.com/issues)
+* [Node Weekly](http://nodeweekly.com/issues)
 * [Node.js Releases](https://nodejs.org/en/blog/)
 
 ##### Conferences
