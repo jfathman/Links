@@ -94,6 +94,7 @@
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
+* [Sourcery CodeBench](https://www.mentor.com/embedded-software/sourcery-tools/sourcery-codebench/editions/lite-edition/)
 * [U-Boot](http://www.denx.de/wiki/U-Boot)
 * [QEMU](http://wiki.qemu.org/Main_Page)
 
