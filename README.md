@@ -61,6 +61,7 @@
 * [Redux](http://redux.js.org/)
 * [Falcor](https://netflix.github.io/falcor/starter/what-is-falcor.html)
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
+* [ES6 Shim](https://github.com/paulmillr/es6-shim/)
 
 ##### Documentation
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
