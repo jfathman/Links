@@ -95,8 +95,9 @@
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
-* [Sourcery CodeBench](https://www.mentor.com/embedded-software/sourcery-tools/sourcery-codebench/editions/lite-edition/)
+* [Linaro Toolchain](http://releases.linaro.org/components/toolchain/binaries/)
 * [crosstool-NG](http://crosstool-ng.org/)
+* [Buildroot](https://buildroot.org/download.html)
 * [U-Boot](http://www.denx.de/wiki/U-Boot)
 * [QEMU](http://wiki.qemu.org/Main_Page)
 
