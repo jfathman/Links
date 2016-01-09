@@ -101,6 +101,7 @@
 * [Buildroot](https://buildroot.org/download.html)
 * [U-Boot](http://www.denx.de/wiki/U-Boot)
 * [QEMU](http://wiki.qemu.org/Main_Page)
+* [Alpine Linux](https://alpinelinux.org/)
 
 ##### Hardware
 * [Raspberry Pi](http://elinux.org/RPi_Hub)
