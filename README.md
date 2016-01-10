@@ -68,6 +68,7 @@
 * [FreeBSD Handbook](https://www.freebsd.org/doc/handbook/)
 * [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
 * [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
+* [TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
 * [Redis](http://redis.io/commands)
 * [Docker](https://docs.docker.com/)
 * [RethinkDB](https://www.rethinkdb.com/)
