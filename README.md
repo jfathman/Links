@@ -82,6 +82,7 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [JavaScript Allonge](https://leanpub.com/javascriptallongesix/read)
 * [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
+* [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
 * [libuv](https://nikhilm.github.io/uvbook/index.html)
 
 ##### Misc
