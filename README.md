@@ -91,6 +91,7 @@
 * [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 * [bash](http://www.johnstowers.co.nz/blog/pages/bash-cheat-sheet.html)
 * [vim](http://vim.rtorr.com/)
+* [vim galore](https://github.com/mhinz/vim-galore)
 * [tmux](http://tmuxcheatsheet.com/)
 * [Nginx](http://nginx.org/en/docs/)
 * [Twelve Factor App](http://12factor.net/)
