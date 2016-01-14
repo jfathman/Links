@@ -55,6 +55,7 @@
 * [Immutable](http://facebook.github.io/immutable-js/)
 * [libuv](http://docs.libuv.org/en/v1.x/)
 * [npm](https://docs.npmjs.com/)
+* [awesome npm](https://github.com/sindresorhus/awesome-npm)
 * [ShellJS](http://documentup.com/shelljs/shelljs)
 * [Node Glob](https://github.com/isaacs/node-glob)
 * [LevelDB](http://leveldb.org/)
