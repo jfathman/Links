@@ -57,6 +57,7 @@
 * [libuv](http://docs.libuv.org/en/v1.x/)
 * [npm](https://docs.npmjs.com/)
 * [awesome npm](https://github.com/sindresorhus/awesome-npm)
+* [npm rank](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
 * [ShellJS](http://documentup.com/shelljs/shelljs)
 * [Node Glob](https://github.com/isaacs/node-glob)
 * [LevelDB](http://leveldb.org/)
