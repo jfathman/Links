@@ -41,6 +41,8 @@
 * [ESLint](http://eslint.org/)
 * [Bluebird](https://github.com/petkaantonov/bluebird/blob/master/API.md)
 * [RxJS](https://github.com/Reactive-Extensions/RxJS/tree/master/doc)
+* [Async](https://github.com/caolan/async)
+* [HighlandJS](http://highlandjs.org/)
 * [Grunt](http://gruntjs.com/getting-started)
 * [Gulp](https://github.com/gulpjs/gulp/tree/master/docs/recipes#recipes)
 * [PM2](http://pm2.keymetrics.io/)
