@@ -110,6 +110,7 @@
 * [U-Boot](http://www.denx.de/wiki/U-Boot)
 * [QEMU](http://wiki.qemu.org/Main_Page)
 * [Alpine Linux](https://alpinelinux.org/)
+* [Linux Versions](http://kernelnewbies.org/LinuxVersions)
 
 ##### Hardware
 * [Raspberry Pi](http://elinux.org/RPi_Hub)
