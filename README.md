@@ -112,6 +112,7 @@
 * [Alpine Linux](https://alpinelinux.org/)
 * [Linux Versions](http://kernelnewbies.org/LinuxVersions)
 * [Linux Source](https://www.kernel.org/pub/linux/kernel/v4.x/)
+* [RPi C++ Source](https://github.com/ve3wwg/raspberry_pi2)
 
 ##### Hardware
 * [Raspberry Pi](http://elinux.org/RPi_Hub)
