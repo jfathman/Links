@@ -101,6 +101,8 @@
 * [Nginx](http://nginx.org/en/docs/)
 * [Twelve Factor App](http://12factor.net/)
 * [SSL Certificates](https://letsencrypt.org/)
+* [nim](http://nim-lang.org/documentation.html)
+* [Luvit](https://luvit.io/)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
@@ -115,7 +117,6 @@
 * [Linux Source](https://www.kernel.org/pub/linux/kernel/v4.x/)
 * [RPi C++ Source](https://github.com/ve3wwg/raspberry_pi2)
 * [Port Linux to ARM](http://free-electrons.com/pub/conferences/2015/captronic/captronic-porting-linux-on-arm.pdf)
-* [Luvit](https://luvit.io/)
 
 ##### Hardware
 * [Raspberry Pi](http://elinux.org/RPi_Hub)
