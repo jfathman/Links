@@ -101,7 +101,7 @@
 * [Nginx](http://nginx.org/en/docs/)
 * [Twelve Factor App](http://12factor.net/)
 * [SSL Certificates](https://letsencrypt.org/)
-* [nim](http://nim-lang.org/documentation.html)
+* [Nim](http://nim-lang.org/documentation.html)
 * [Luvit](https://luvit.io/)
 
 ##### Embedded
