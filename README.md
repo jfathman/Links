@@ -10,7 +10,9 @@
 * [Nodevember](http://nodevember.org/)
 * [Node Interactive](http://events.linuxfoundation.org/events/node-interactive)
 * [Node Summit](http://nodesummit.com/)
-* [OSCON](http://www.oreilly.com/conferences/)
+* [OSCON](http://conferences.oreilly.com/oscon/open-source-us)
+* [OpenIoT Summit](http://events.linuxfoundation.org/events/openiot-summit)
+* [Embedded Linux Conference](http://events.linuxfoundation.org/events/embedded-linux-conference)
 
 ##### Blogs
 * [NodeSource](https://nodesource.com/blog/)
