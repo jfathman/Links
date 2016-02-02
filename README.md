@@ -35,6 +35,7 @@
 ##### Node.js / JavaScript / ES6
 * [Node.js API](https://nodejs.org/api/)
 * [ES6 in Node.js](https://nodejs.org/en/docs/es6/)
+* [Understanding ES6](https://github.com/sgaurav/understanding-es6)
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [Babel.js ECMAScript 2015 Features](https://babeljs.io/docs/learn-es2015/#ecmascript-6-features)
 * [Babel.js 6 Package Split](http://jamesknelson.com/the-six-things-you-need-to-know-about-babel-6/)
