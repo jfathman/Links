@@ -21,6 +21,7 @@
 * [Nginx](https://www.nginx.com/blog/)
 * [Node/C++](http://blog.scottfrees.com/)
 * [RisingStack](https://blog.risingstack.com/)
+* [YLD Software](http://blog.yld.io/)
 
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials
 * [NodeSource](https://nodesource.com/resources)
