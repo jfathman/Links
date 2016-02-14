@@ -44,6 +44,7 @@
 * [Babel.js ECMAScript 2015 Features](https://babeljs.io/docs/learn-es2015/#ecmascript-6-features)
 * [Babel.js 6 Package Split](http://jamesknelson.com/the-six-things-you-need-to-know-about-babel-6/)
 * [ESLint](http://eslint.org/)
+* [TSLint](http://palantir.github.io/tslint/)
 * [Bluebird](http://bluebirdjs.com/docs/getting-started.html)
 * [RxJS](https://github.com/Reactive-Extensions/RxJS/tree/master/doc)
 * [Async](https://github.com/caolan/async)
