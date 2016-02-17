@@ -110,6 +110,7 @@
 * [SSL Certificates](https://letsencrypt.org/)
 * [Nim](http://nim-lang.org/documentation.html)
 * [Luvit](https://luvit.io/)
+* [NSQ](http://nsq.io/)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
