@@ -23,6 +23,7 @@
 * [Node/C++](http://blog.scottfrees.com/)
 * [RisingStack](https://blog.risingstack.com/)
 * [YLD Software](http://blog.yld.io/)
+* [Brantly TypeScript](http://www.jbrantly.com/)
 
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials
 * [NodeSource](https://nodesource.com/resources)
