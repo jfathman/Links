@@ -114,6 +114,7 @@
 * [Nim](http://nim-lang.org/documentation.html)
 * [Luvit](https://luvit.io/)
 * [NSQ](http://nsq.io/)
+* [webpack](http://webpack.github.io/docs/)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
