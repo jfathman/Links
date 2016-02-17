@@ -75,12 +75,16 @@
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 * [ES6 Shim](https://github.com/paulmillr/es6-shim/)
 
+##### TypeScript
+* [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
+* [TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
+* [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
+* [TSLint](http://palantir.github.io/tslint/)
+
 ##### Documentation
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
 * [FreeBSD Handbook](https://www.freebsd.org/doc/handbook/)
 * [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
-* [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
-* [TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
 * [Redis](http://redis.io/commands)
 * [Docker](https://docs.docker.com/)
 * [RethinkDB](https://www.rethinkdb.com/)
@@ -95,7 +99,6 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [JavaScript Allonge](https://leanpub.com/javascriptallongesix/read)
 * [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
-* [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
 * [libuv](https://nikhilm.github.io/uvbook/index.html)
 
 ##### Misc
