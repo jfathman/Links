@@ -114,7 +114,11 @@
 * [SSL Certificates](https://letsencrypt.org/)
 * [Nim](http://nim-lang.org/documentation.html)
 * [Luvit](https://luvit.io/)
+
+##### IoT
 * [NSQ](http://nsq.io/)
+* [NATS](http://nats.io/)
+* [Thali](http://thaliproject.org/)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
