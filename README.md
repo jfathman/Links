@@ -79,6 +79,8 @@
 ##### TypeScript
 * [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
 * [TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
+* [Definitely Typed](http://definitelytyped.org/)
+* [Typings](https://github.com/typings/typings)
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
 * [TSLint](http://palantir.github.io/tslint/)
 
