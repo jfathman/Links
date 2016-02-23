@@ -75,6 +75,7 @@
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 * [ES6 Shim](https://github.com/paulmillr/es6-shim/)
 * [webpack](http://webpack.github.io/docs/)
+* [Tick Renaming](https://github.com/bengl/do-it-later)
 
 ##### TypeScript
 * [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
