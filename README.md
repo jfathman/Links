@@ -104,6 +104,7 @@
 * [JavaScript Allonge](https://leanpub.com/javascriptallongesix/read)
 * [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
 * [libuv](https://nikhilm.github.io/uvbook/index.html)
+* [RxJS](http://xgrommx.github.io/rx-book/)
 
 ##### Misc
 * [git](http://gitref.org/)
