@@ -124,6 +124,7 @@
 * [NSQ](http://nsq.io/)
 * [NATS](http://nats.io/)
 * [Thali](http://thaliproject.org/)
+* [CPM](http://www.cpm.rocks/)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
