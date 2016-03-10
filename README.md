@@ -25,7 +25,7 @@
 * [YLD Software](http://blog.yld.io/)
 * [Brantly TypeScript](http://www.jbrantly.com/)
 
-##### Webinars / Podcasts / Presentations / Guides / Tutorials
+##### Webinars / Podcasts / Presentations / Guides / Tutorials / Lists
 * [NodeSource](https://nodesource.com/resources)
 * [NodeUp](http://nodeup.com/)
 * [Nodevember 2015](https://www.youtube.com/user/nodevember)
@@ -36,6 +36,7 @@
 * [JavaScript Tutorial MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
 * [MQTT Node.js](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/)
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 
 ##### Node.js / JavaScript / ES6
 * [Node.js API](https://nodejs.org/api/)
