@@ -131,6 +131,7 @@
 * [Node USB](https://github.com/nonolith/node-usb)
 * [i2c Node](https://github.com/fivdi/i2c-bus)
 * [noble BLE Node](https://github.com/sandeepmistry/noble)
+* [bleno BLE Node](https://github.com/sandeepmistry/bleno)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
