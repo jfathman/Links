@@ -130,6 +130,7 @@
 * [SerialPort Node](https://github.com/voodootikigod/node-serialport)
 * [Node USB](https://github.com/nonolith/node-usb)
 * [i2c Node](https://github.com/fivdi/i2c-bus)
+* [noble BLE Node](https://github.com/sandeepmistry/noble)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
