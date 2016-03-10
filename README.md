@@ -126,6 +126,10 @@
 * [NATS](http://nats.io/)
 * [Thali](http://thaliproject.org/)
 * [CPM](http://www.cpm.rocks/)
+* [ImageMagic Node](https://github.com/aheckmann/gm)
+* [SerialPort Node](https://github.com/voodootikigod/node-serialport)
+* [Node USB](https://github.com/nonolith/node-usb)
+* [i2c Node](https://github.com/fivdi/i2c-bus)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
