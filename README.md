@@ -37,6 +37,7 @@
 * [JavaScript Tutorial MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
 * [MQTT Node.js](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/)
+* [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 
 ##### Node.js / JavaScript / ES6
@@ -67,10 +68,8 @@
 * [libuv](http://docs.libuv.org/en/v1.x/)
 * [ShellJS](http://documentup.com/shelljs/shelljs)
 * [Node Glob](https://github.com/isaacs/node-glob)
-* [LevelDB](http://leveldb.org/)
 * [Redux](http://redux.js.org/)
 * [Falcor](https://netflix.github.io/falcor/starter/what-is-falcor.html)
-* [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 * [ES6 Shim](https://github.com/paulmillr/es6-shim/)
 * [webpack](http://webpack.github.io/docs/)
 * [Tick Renaming](https://github.com/bengl/do-it-later)
@@ -92,6 +91,7 @@
 
 ##### Data Store
 * [Redis](http://redis.io/commands)
+* [LevelDB](http://leveldb.org/)
 * [RethinkDB](https://www.rethinkdb.com/)
 * [MongoDB](https://docs.mongodb.org/manual/)
 * [PostgreSQL](http://www.postgresql.org/docs/9.4/static/index.html)
