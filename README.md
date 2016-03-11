@@ -14,6 +14,7 @@
 * [OSCON](http://conferences.oreilly.com/oscon/open-source-us)
 * [OpenIoT Summit](http://events.linuxfoundation.org/events/openiot-summit)
 * [Embedded Linux Conference](http://events.linuxfoundation.org/events/embedded-linux-conference)
+* [Texas Linux Fest](http://2016.texaslinuxfest.org/)
 
 ##### Blogs
 * [NodeSource](https://nodesource.com/blog/)
