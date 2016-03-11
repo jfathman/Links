@@ -64,10 +64,6 @@
 * [MassiveJS](http://massive-js.readthedocs.org/en/latest/)
 * [Immutable](http://facebook.github.io/immutable-js/)
 * [libuv](http://docs.libuv.org/en/v1.x/)
-* [npm](https://docs.npmjs.com/)
-* [awesome npm](https://github.com/sindresorhus/awesome-npm)
-* [npm rank](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
-* [npmsearch](https://npmsearch.com/)
 * [ShellJS](http://documentup.com/shelljs/shelljs)
 * [Node Glob](https://github.com/isaacs/node-glob)
 * [LevelDB](http://leveldb.org/)
@@ -77,6 +73,12 @@
 * [ES6 Shim](https://github.com/paulmillr/es6-shim/)
 * [webpack](http://webpack.github.io/docs/)
 * [Tick Renaming](https://github.com/bengl/do-it-later)
+
+##### npm
+* [npm](https://docs.npmjs.com/)
+* [awesome npm](https://github.com/sindresorhus/awesome-npm)
+* [npm rank](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
+* [npmsearch](https://npmsearch.com/)
 * [npm Discover](http://www.npmdiscover.com/)
 
 ##### TypeScript
@@ -87,15 +89,17 @@
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
 * [TSLint](http://palantir.github.io/tslint/)
 
+##### Data Store
+* [Redis](http://redis.io/commands)
+* [RethinkDB](https://www.rethinkdb.com/)
+* [MongoDB](https://docs.mongodb.org/manual/)
+* [PostgreSQL](http://www.postgresql.org/docs/9.4/static/index.html)
+
 ##### Documentation
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
 * [FreeBSD Handbook](https://www.freebsd.org/doc/handbook/)
 * [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
-* [Redis](http://redis.io/commands)
 * [Docker](https://docs.docker.com/)
-* [RethinkDB](https://www.rethinkdb.com/)
-* [MongoDB](https://docs.mongodb.org/manual/)
-* [PostgreSQL](http://www.postgresql.org/docs/9.4/static/index.html)
 
 ##### Books
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
