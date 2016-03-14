@@ -155,6 +155,7 @@
 
 ##### Hardware
 * [Raspberry Pi](http://elinux.org/RPi_Hub)
+* [WD 314GB HDD](http://store.wdc.com/store/wdus/en_US/DisplayAccesoryProductDetailsPage/ThemeID.21986300/Accessories/WD_314GB_PiDrive/productID.335173200/categoryId.70262300)
 * [BeagleBone](http://elinux.org/Beagleboard:BeagleBoneBlack)
 * [Arduino](http://playground.arduino.cc/)
 * [Particle](https://www.particle.io/prototype)
