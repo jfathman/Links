@@ -60,6 +60,7 @@
 * [Mocha](https://mochajs.org/)
 * [Chai](http://chaijs.com/)
 * [Sinon](http://sinonjs.org/docs/)
+* [AVA](https://github.com/sindresorhus/ava)
 * [lodash](https://lodash.com/docs)
 * [ioredis](https://github.com/luin/ioredis)
 * [Bookshelf.js](http://bookshelfjs.org/)
