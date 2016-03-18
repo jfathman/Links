@@ -39,6 +39,7 @@
 * [MQTT Node.js](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/)
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+* [ES Discuss](https://esdiscuss.org/)
 
 ##### Node.js / JavaScript / ES6
 * [Node.js API](https://nodejs.org/api/)
