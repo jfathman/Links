@@ -84,6 +84,7 @@
 * [npm rank](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
 * [npmsearch](https://npmsearch.com/)
 * [npm Discover](http://www.npmdiscover.com/)
+* [shrinkpack](https://github.com/JamieMason/shrinkpack)
 
 ##### TypeScript
 * [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
