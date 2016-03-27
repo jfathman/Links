@@ -107,6 +107,7 @@
 * [FreeBSD Handbook](https://www.freebsd.org/doc/handbook/)
 * [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
 * [Docker](https://docs.docker.com/)
+* [Ansible](http://docs.ansible.com/ansible/)
 
 ##### Books
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
