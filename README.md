@@ -145,6 +145,15 @@
 * [i2c Node](https://github.com/fivdi/i2c-bus)
 * [noble BLE Node](https://github.com/sandeepmistry/noble)
 * [bleno BLE Node](https://github.com/sandeepmistry/bleno)
+* [Duktape](http://duktape.org/)
+* [IoT.js](https://samsung.github.io/iotjs/)
+ 
+##### IoT Frameworks
+* [OCF](http://openconnectivity.org/)
+* [Soletta](https://solettaproject.org/)
+* [IoTivity](https://www.iotivity.org/)
+* [Ostro](https://ostroproject.org/)
+* [Zephyr](https://www.zephyrproject.org/)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
