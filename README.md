@@ -93,6 +93,7 @@
 * [Typings](https://github.com/typings/typings)
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
 * [TSLint](http://palantir.github.io/tslint/)
+* [Node and TypeScript](http://sharednode.org/2016/04/21/building-applications-with-node-typescript/)
 
 ##### Data Store
 * [Redis](http://redis.io/commands)
