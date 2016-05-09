@@ -171,6 +171,7 @@
 * [RPi C++ Source](https://github.com/ve3wwg/raspberry_pi2)
 * [Port Linux to ARM](http://free-electrons.com/pub/conferences/2015/captronic/captronic-porting-linux-on-arm.pdf)
 * [Zephyr Project](https://www.zephyrproject.org/)
+* [PlatformIO](http://platformio.org/)
 
 ##### Hardware
 * [Raspberry Pi](http://elinux.org/RPi_Hub)
