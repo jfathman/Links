@@ -173,6 +173,10 @@
 * [Zephyr Project](https://www.zephyrproject.org/)
 * [PlatformIO](http://platformio.org/)
 
+##### RTOS
+* [mbed OS](https://www.mbed.com/en/development/software/mbed-os/)
+* [FreeRTOS](http://www.freertos.org/)
+
 ##### Hardware
 * [Raspberry Pi](http://elinux.org/RPi_Hub)
 * [WD 314GB HDD](http://store.wdc.com/store/wdus/en_US/DisplayAccesoryProductDetailsPage/ThemeID.21986300/Accessories/WD_314GB_PiDrive/productID.335173200/categoryId.70262300)
@@ -185,6 +189,7 @@
 * [Circuit Lab](https://www.circuitlab.com/)
 * [element14](http://www.newark.com/?COM=element14_store_Home)
 * [Electronics Tutorials](http://www.electronics-tutorials.ws/)
+* [nRF52-DK](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF52-DK)
 
 ##### Design Tools
 * [KiCad EDA](http://kicad-pcb.org/)
