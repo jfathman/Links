@@ -186,6 +186,13 @@
 * [element14](http://www.newark.com/?COM=element14_store_Home)
 * [Electronics Tutorials](http://www.electronics-tutorials.ws/)
 
+##### Design Tools
+* [KiCad EDA](http://kicad-pcb.org/)
+* [Eagle](http://www.cadsoftusa.com/eagle-pcb-design-software/)
+* [fritzing](http://fritzing.org/home/)
+* [Inkscape](https://inkscape.org/en/)
+* [OpenSCAD](http://www.openscad.org/)
+
 ##### Test Equipment
 * [Fluke 187 True RMS Multimeter](http://assets.fluke.com/manuals/187_189_umeng0200.pdf)
 * [Tektronix Digital Storage Oscilloscope User Manual](https://physics.ucsd.edu/neurophysics/Manuals/Tektronix/TDS%201000B%20and%20TDS%202000B%20Manual.pdf)
