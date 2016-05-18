@@ -18,6 +18,8 @@
 * [ARM TechCon](http://www.armtechcon.com/)
 * [AnsibleFest](https://www.ansible.com/ansiblefest)
 * [NPM Camp](http://npm.camp/)
+* [Wearables TechCon](http://www.wearablestechcon.com/)
+* [Wearable USA](http://www.idtechex.com/idtechex-wearable-usa/show/en/)
 
 ##### Blogs
 * [NodeSource](https://nodesource.com/blog/)
