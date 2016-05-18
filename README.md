@@ -15,6 +15,9 @@
 * [OpenIoT Summit](http://events.linuxfoundation.org/events/openiot-summit)
 * [Embedded Linux Conference](http://events.linuxfoundation.org/events/embedded-linux-conference)
 * [Texas Linux Fest](http://2016.texaslinuxfest.org/)
+* [ARM TechCon](http://www.armtechcon.com/)
+* [AnsibleFest](https://www.ansible.com/ansiblefest)
+* [NPM Camp](http://npm.camp/)
 
 ##### Blogs
 * [NodeSource](https://nodesource.com/blog/)
