@@ -5,6 +5,8 @@
 * [JavaScript Weekly](http://javascriptweekly.com/issues)
 * [Node Weekly](http://nodeweekly.com/issues)
 * [Node.js Releases](https://nodejs.org/en/blog/)
+* [Node Foundation Facebook](https://www.facebook.com/Nodejs-Foundation-979337978780579/)
+* [Node Foundation LinkedIn](https://www.linkedin.com/company/node.js-foundation)
 
 ##### Conferences
 * [Nodevember](http://nodevember.org/)
