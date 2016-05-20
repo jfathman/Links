@@ -183,6 +183,7 @@
 ##### RTOS
 * [mbed OS](https://www.mbed.com/en/development/software/mbed-os/)
 * [FreeRTOS](http://www.freertos.org/)
+* [Apache mynewt](http://mynewt.apache.org/)
 
 ##### Hardware
 * [Raspberry Pi](http://elinux.org/RPi_Hub)
