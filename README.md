@@ -219,3 +219,5 @@
 * [Raspberry Pi](https://www.raspberrypi.org/downloads/raspbian/)
 * [BeagleBone](http://beagleboard.org/latest-images)
 * [FreeBSD](http://ftp.freebsd.org/pub/FreeBSD/snapshots/arm/armv6/ISO-IMAGES/11.0/)
+* [NATS.io armhf](https://github.com/nats-io/gnatsd/releases)
+* [Node.js armhf](https://github.com/nodesource/distributions)
