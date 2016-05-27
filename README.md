@@ -119,6 +119,7 @@
 * [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
 * [Docker](https://docs.docker.com/)
 * [Ansible](http://docs.ansible.com/ansible/)
+* [sysdig](http://www.sysdig.org/wiki/sysdig-user-guide/)
 
 ##### Books
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
