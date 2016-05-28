@@ -201,6 +201,7 @@
 * [element14](http://www.newark.com/?COM=element14_store_Home)
 * [Electronics Tutorials](http://www.electronics-tutorials.ws/)
 * [nRF52-DK](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF52-DK)
+* [Arduino Primo](http://www.arduino.org/products/boards/arduino-primo)
 
 ##### Design Tools
 * [KiCad EDA](http://kicad-pcb.org/)
