@@ -114,6 +114,8 @@
 * [MongoDB](https://docs.mongodb.org/manual/)
 * [PostgreSQL](http://www.postgresql.org/docs/9.4/static/index.html)
 * [Node Postgres](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres)
+* [InfluxDB](https://influxdata.com/)
+* [Node InfluxDB](https://github.com/node-influx/node-influx)
 
 ##### Documentation
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
