@@ -87,6 +87,8 @@
 * [Blessed](https://github.com/chjj/blessed)
 * [yargs](http://yargs.js.org/docs/)
 * [js-yaml](https://github.com/nodeca/js-yaml)
+* [node-cache](https://github.com/tcs-de/nodecache)
+* [lru-cache](https://github.com/isaacs/node-lru-cache)
 
 ##### npm
 * [npm](https://docs.npmjs.com/)
