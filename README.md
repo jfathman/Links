@@ -122,6 +122,7 @@
 * [FreeBSD Handbook](https://www.freebsd.org/doc/handbook/)
 * [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
 * [Docker](https://docs.docker.com/)
+* [Kubernetes](http://kubernetes.io/docs/)
 * [Ansible](http://docs.ansible.com/ansible/)
 * [sysdig](http://www.sysdig.org/wiki/sysdig-user-guide/)
 
