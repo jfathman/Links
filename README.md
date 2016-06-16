@@ -92,6 +92,7 @@
 
 ##### npm
 * [npm](https://docs.npmjs.com/)
+* [npms](https://npms.io/)
 * [awesome npm](https://github.com/sindresorhus/awesome-npm)
 * [npm rank](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
 * [npmsearch](https://npmsearch.com/)
@@ -171,6 +172,7 @@
 * [IoTivity](https://www.iotivity.org/)
 * [Ostro](https://ostroproject.org/)
 * [Zephyr](https://www.zephyrproject.org/)
+* [Snapcraft](http://snapcraft.io/)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
