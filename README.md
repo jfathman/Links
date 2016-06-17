@@ -89,6 +89,7 @@
 * [js-yaml](https://github.com/nodeca/js-yaml)
 * [node-cache](https://github.com/tcs-de/nodecache)
 * [lru-cache](https://github.com/isaacs/node-lru-cache)
+* [Ramda](http://ramdajs.com/0.21.0/docs/)
 
 ##### npm
 * [npm](https://docs.npmjs.com/)
