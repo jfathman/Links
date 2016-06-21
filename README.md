@@ -197,7 +197,6 @@
 * [Apache mynewt](http://mynewt.apache.org/)
 
 ##### Hardware
-* [Raspberry Pi](http://elinux.org/RPi_Hub)
 * [WD 314GB HDD](http://store.wdc.com/store/wdus/en_US/DisplayAccesoryProductDetailsPage/ThemeID.21986300/Accessories/WD_314GB_PiDrive/productID.335173200/categoryId.70262300)
 * [BeagleBone](http://elinux.org/Beagleboard:BeagleBoneBlack)
 * [Arduino](http://playground.arduino.cc/)
@@ -210,6 +209,12 @@
 * [Electronics Tutorials](http://www.electronics-tutorials.ws/)
 * [nRF52-DK](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF52-DK)
 * [Arduino Primo](http://www.arduino.org/products/boards/arduino-primo)
+
+##### Raspberry Pi
+* [doc](https://www.raspberrypi.org/documentation/)
+* [BCM2835](https://www.raspberrypi.org/wp-content/uploads/2012/02/BCM2835-ARM-Peripherals.pdf)
+* [errata](http://elinux.org/BCM2835_datasheet_errata)
+* [elinux](http://elinux.org/RPi_Hub)
 
 ##### Design Tools
 * [KiCad EDA](http://kicad-pcb.org/)
