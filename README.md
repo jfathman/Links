@@ -99,6 +99,7 @@
 * [npmsearch](https://npmsearch.com/)
 * [npm Discover](http://www.npmdiscover.com/)
 * [shrinkpack](https://github.com/JamieMason/shrinkpack)
+* [np](https://github.com/sindresorhus/np)
 
 ##### TypeScript
 * [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
