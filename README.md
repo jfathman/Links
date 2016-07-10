@@ -22,6 +22,8 @@
 * [NPM Camp](http://npm.camp/)
 * [Wearables TechCon](http://www.wearablestechcon.com/)
 * [Wearable USA](http://www.idtechex.com/idtechex-wearable-usa/show/en/)
+* [Embedded Systems Conference](http://www.embeddedconf.com/)
+* [CppCon](http://cppcon.org/)
 
 ##### Blogs
 * [NodeSource](https://nodesource.com/blog/)
