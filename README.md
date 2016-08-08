@@ -19,9 +19,6 @@
 * [Texas Linux Fest](http://2016.texaslinuxfest.org/)
 * [ARM TechCon](http://www.armtechcon.com/)
 * [AnsibleFest](https://www.ansible.com/ansiblefest)
-* [NPM Camp](http://npm.camp/)
-* [Wearables TechCon](http://www.wearablestechcon.com/)
-* [Wearable USA](http://www.idtechex.com/idtechex-wearable-usa/show/en/)
 * [Embedded Systems Conference](http://www.embeddedconf.com/)
 * [CppCon](http://cppcon.org/)
 
@@ -123,6 +120,7 @@
 * [Node InfluxDB](https://github.com/node-influx/node-influx)
 
 ##### Documentation
+* [StackOverflow Documentation](http://stackoverflow.com/documentation)
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
 * [FreeBSD Handbook](https://www.freebsd.org/doc/handbook/)
 * [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
@@ -157,8 +155,10 @@
 * [RAML](https://github.com/raml-org/raml-spec/blob/master/raml-0.8.md)
 
 ##### IoT
-* [NSQ](http://nsq.io/)
 * [NATS](http://nats.io/)
+* [MessagePack](http://msgpack.org/)
+* [MessagePack Node](https://github.com/mcollina/msgpack5)
+* [gRPC](http://www.grpc.io/)
 * [Thali](http://thaliproject.org/)
 * [CPM](http://www.cpm.rocks/)
 * [ImageMagic Node](https://github.com/aheckmann/gm)
