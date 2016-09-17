@@ -89,6 +89,7 @@
 * [node-cache](https://github.com/tcs-de/nodecache)
 * [lru-cache](https://github.com/isaacs/node-lru-cache)
 * [Ramda](http://ramdajs.com/0.21.0/docs/)
+* [log4js](https://github.com/nomiddlename/log4js-node)
 
 ##### npm
 * [npm](https://docs.npmjs.com/)
