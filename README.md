@@ -141,7 +141,6 @@
 * [Nginx](http://nginx.org/en/docs/)
 * [Twelve Factor App](http://12factor.net/)
 * [SSL Certificates](https://letsencrypt.org/)
-* [RAML](https://github.com/raml-org/raml-spec/blob/master/raml-0.8.md)
 * [ImageMagic Node](https://github.com/aheckmann/gm)
 
 ##### IoT
