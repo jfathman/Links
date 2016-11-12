@@ -1,13 +1,13 @@
 ##### Node
 * [Node](https://nodejs.org/en/)
-
-##### News
-* [Node.js Releases](https://nodejs.org/en/blog/)
+* [Downloads](https://nodejs.org/en/download/)
 * [Node Foundation Facebook](https://www.facebook.com/Nodejs-Foundation-979337978780579/)
 * [Node Foundation LinkedIn](https://www.linkedin.com/company/node.js-foundation)
+
+##### News
 * [Node Weekly](http://nodeweekly.com/issues)
+* [Reddit Node](https://www.reddit.com/r/node/)
 * [JavaScript Weekly](http://javascriptweekly.com/issues)
-* [Reddit Node.js](https://www.reddit.com/r/node/)
 * [Reddit JavaScript](https://www.reddit.com/r/javascript/)
 
 ##### Conferences
