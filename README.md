@@ -168,6 +168,7 @@
 * [i2c Node](https://github.com/fivdi/i2c-bus)
 * [noble BLE Node](https://github.com/sandeepmistry/noble)
 * [bleno BLE Node](https://github.com/sandeepmistry/bleno)
+* [LoRa Node](https://github.com/sandeepmistry/node-sx127x)
 * [Duktape](http://duktape.org/)
 * [IoT.js](https://samsung.github.io/iotjs/)
  
