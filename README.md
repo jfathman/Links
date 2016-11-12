@@ -101,6 +101,9 @@
 * [shrinkpack](https://github.com/JamieMason/shrinkpack)
 * [np](https://github.com/sindresorhus/np)
 
+##### yarn
+* [yarn](https://yarnpkg.com/)
+
 ##### TypeScript
 * [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
 * [TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
