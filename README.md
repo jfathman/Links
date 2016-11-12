@@ -1,12 +1,11 @@
 ##### News
-* [Twitter Node.js](https://twitter.com/nodejs)
-* [Reddit Node.js](https://www.reddit.com/r/node/)
-* [Reddit JavaScript](https://www.reddit.com/r/javascript/)
-* [JavaScript Weekly](http://javascriptweekly.com/issues)
-* [Node Weekly](http://nodeweekly.com/issues)
 * [Node.js Releases](https://nodejs.org/en/blog/)
 * [Node Foundation Facebook](https://www.facebook.com/Nodejs-Foundation-979337978780579/)
 * [Node Foundation LinkedIn](https://www.linkedin.com/company/node.js-foundation)
+* [Node Weekly](http://nodeweekly.com/issues)
+* [JavaScript Weekly](http://javascriptweekly.com/issues)
+* [Reddit Node.js](https://www.reddit.com/r/node/)
+* [Reddit JavaScript](https://www.reddit.com/r/javascript/)
 
 ##### Conferences
 * [Nodevember](http://nodevember.org/)
