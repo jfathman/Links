@@ -44,11 +44,10 @@
 
 ##### Node.js / JavaScript / ES6
 * [Node.js API](https://nodejs.org/api/)
-* [ES6 in Node.js](https://nodejs.org/en/docs/es6/)
 * [Node Green](http://node.green/)
+* [libuv](http://docs.libuv.org/en/v1.x/)
 * [Understanding ES6](https://github.com/sgaurav/understanding-es6)
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-* [Node Green](http://node.green/)
 * [ESLint](http://eslint.org/)
 * [RxJS](https://github.com/Reactive-Extensions/RxJS/tree/master/doc)
 * [Async](https://github.com/caolan/async)
@@ -56,6 +55,7 @@
 * [PM2](http://pm2.keymetrics.io/)
 * [Foreman](https://github.com/strongloop/node-foreman)
 * [Express](http://expressjs.com/)
+* [hapi](http://hapijs.com/)
 * [Mocha](https://mochajs.org/)
 * [Chai](http://chaijs.com/)
 * [Sinon](http://sinonjs.org/docs/)
@@ -65,11 +65,9 @@
 * [Bookshelf.js](http://bookshelfjs.org/)
 * [MassiveJS](http://massive-js.readthedocs.org/en/latest/)
 * [Immutable](http://facebook.github.io/immutable-js/)
-* [libuv](http://docs.libuv.org/en/v1.x/)
 * [ShellJS](http://documentup.com/shelljs/shelljs)
 * [Node Glob](https://github.com/isaacs/node-glob)
 * [Redux](http://redux.js.org/)
-* [Falcor](https://netflix.github.io/falcor/starter/what-is-falcor.html)
 * [webpack](http://webpack.github.io/docs/)
 * [Tick Renaming](https://github.com/bengl/do-it-later)
 * [Blessed](https://github.com/chjj/blessed)
@@ -79,7 +77,8 @@
 * [lru-cache](https://github.com/isaacs/node-lru-cache)
 * [log4js](https://github.com/nomiddlename/log4js-node)
 
-##### npm
+##### yarn / npm
+* [yarn](https://yarnpkg.com/)
 * [npm](https://docs.npmjs.com/)
 * [npms](https://npms.io/)
 * [awesome npm](https://github.com/sindresorhus/awesome-npm)
@@ -88,9 +87,6 @@
 * [npm Discover](http://www.npmdiscover.com/)
 * [shrinkpack](https://github.com/JamieMason/shrinkpack)
 * [np](https://github.com/sindresorhus/np)
-
-##### yarn
-* [yarn](https://yarnpkg.com/)
 
 ##### TypeScript
 * [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
@@ -127,7 +123,6 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [JavaScript Allonge](https://leanpub.com/javascriptallongesix/read)
-* [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
 * [libuv](https://nikhilm.github.io/uvbook/index.html)
 * [RxJS](http://xgrommx.github.io/rx-book/)
 
