@@ -1,5 +1,8 @@
 ##### Node
 * [Node](https://nodejs.org/en/)
+* [Node API](https://nodejs.org/api/)
+* [Node Green](http://node.green/)
+* [libuv](http://docs.libuv.org/en/v1.x/)
 * [Node Foundation LinkedIn](https://www.linkedin.com/company/node.js-foundation)
 * [Node Foundation Facebook](https://www.facebook.com/Nodejs-Foundation-979337978780579/)
 
@@ -31,9 +34,7 @@
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 
 ##### Node.js / JavaScript / ES6
-* [Node.js API](https://nodejs.org/api/)
-* [Node Green](http://node.green/)
-* [libuv](http://docs.libuv.org/en/v1.x/)
+
 * [Understanding ES6](https://github.com/sgaurav/understanding-es6)
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [ESLint](http://eslint.org/)
