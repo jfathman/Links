@@ -35,7 +35,7 @@
 * [Redux](https://egghead.io/series/getting-started-with-redux)
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 
-##### Node.js / JavaScript / ES6
+##### Node Packages
 * [ESLint](http://eslint.org/)
 * [RxJS](https://github.com/Reactive-Extensions/RxJS/tree/master/doc)
 * [Async](https://github.com/caolan/async)
