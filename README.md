@@ -25,6 +25,7 @@
 * [Axel Rauschmayer](http://www.2ality.com/)
 
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials / Lists
+* [StackOverflow Documentation](http://stackoverflow.com/documentation)
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 * [JavaScript Air](http://javascriptair.com/)
@@ -67,6 +68,22 @@
 * [lru-cache](https://github.com/isaacs/node-lru-cache)
 * [log4js](https://github.com/nomiddlename/log4js-node)
 
+##### IoT
+* [NATS](http://nats.io/)
+* [MessagePack](http://msgpack.org/)
+* [MessagePack Node](https://github.com/mcollina/msgpack5)
+* [gRPC](http://www.grpc.io/)
+* [SerialPort Node](https://github.com/voodootikigod/node-serialport)
+* [Node USB](https://github.com/nonolith/node-usb)
+* [i2c Node](https://github.com/fivdi/i2c-bus)
+* [noble BLE Node](https://github.com/sandeepmistry/noble)
+* [bleno BLE Node](https://github.com/sandeepmistry/bleno)
+* [onoff Node](https://github.com/fivdi/onoff)
+* [spi-device Node](https://github.com/fivdi/spi-device)
+* [LoRa Node](https://github.com/sandeepmistry/node-sx127x)
+* [Duktape](http://duktape.org/)
+* [IoT.js](https://samsung.github.io/iotjs/)
+
 ##### Frameworks
 * [Ember.js](http://emberjs.com/)
 
@@ -101,7 +118,6 @@
 * [Node and TypeScript](http://sharednode.org/2016/04/21/building-applications-with-node-typescript/)
 
 ##### Documentation
-* [StackOverflow Documentation](http://stackoverflow.com/documentation)
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
 * [FreeBSD Handbook](https://www.freebsd.org/doc/handbook/)
 * [Docker](https://docs.docker.com/)
@@ -129,22 +145,6 @@
 * [Twelve Factor App](http://12factor.net/)
 * [SSL Certificates](https://letsencrypt.org/)
 
-##### IoT
-* [NATS](http://nats.io/)
-* [MessagePack](http://msgpack.org/)
-* [MessagePack Node](https://github.com/mcollina/msgpack5)
-* [gRPC](http://www.grpc.io/)
-* [SerialPort Node](https://github.com/voodootikigod/node-serialport)
-* [Node USB](https://github.com/nonolith/node-usb)
-* [i2c Node](https://github.com/fivdi/i2c-bus)
-* [noble BLE Node](https://github.com/sandeepmistry/noble)
-* [bleno BLE Node](https://github.com/sandeepmistry/bleno)
-* [onoff Node](https://github.com/fivdi/onoff)
-* [spi-device Node](https://github.com/fivdi/spi-device)
-* [LoRa Node](https://github.com/sandeepmistry/node-sx127x)
-* [Duktape](http://duktape.org/)
-* [IoT.js](https://samsung.github.io/iotjs/)
- 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
 * [Linaro Toolchain](http://releases.linaro.org/components/toolchain/binaries/)
