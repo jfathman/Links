@@ -47,7 +47,7 @@
 * [Chai](http://chaijs.com/)
 * [Sinon](http://sinonjs.org/docs/)
 * [AVA](https://github.com/sindresorhus/ava)
-* [lodash](https://lodash.com/docs)
+* [Lodash](https://lodash.com/docs)
 * [Redis](https://github.com/NodeRedis/node_redis)
 * [Bookshelf.js](http://bookshelfjs.org/)
 * [MassiveJS](http://massive-js.readthedocs.org/en/latest/)
