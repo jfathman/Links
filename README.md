@@ -18,9 +18,8 @@
 
 ##### Blogs
 * [NodeSource](https://nodesource.com/blog/)
-* [Axel Rauschmayer](http://www.2ality.com/)
-* [Node/C++](http://blog.scottfrees.com/)
 * [RisingStack](https://blog.risingstack.com/)
+* [Axel Rauschmayer](http://www.2ality.com/)
 
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials / Lists
 * [NodeSource](https://nodesource.com/resources)
