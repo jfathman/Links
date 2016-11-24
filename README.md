@@ -2,7 +2,7 @@
 * [Node](https://nodejs.org/en/)
 * [Node API](https://nodejs.org/api/)
 * [Node Green](http://node.green/)
-* [libuv](http://docs.libuv.org/en/v1.x/)
+* [libuv](http://docs.libuv.org/)
 * [Node Foundation LinkedIn](https://www.linkedin.com/company/node.js-foundation)
 * [Node Foundation Facebook](https://www.facebook.com/Nodejs-Foundation-979337978780579/)
 
