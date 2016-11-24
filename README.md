@@ -35,7 +35,7 @@
 * [Redux](https://egghead.io/series/getting-started-with-redux)
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 
-##### Node Packages
+##### Packages
 * [ESLint](http://eslint.org/)
 * [RxJS](https://github.com/Reactive-Extensions/RxJS/tree/master/doc)
 * [Async](https://github.com/caolan/async)
@@ -47,6 +47,7 @@
 * [Chai](http://chaijs.com/)
 * [Sinon](http://sinonjs.org/docs/)
 * [AVA](https://github.com/sindresorhus/ava)
+* [Moment](http://momentjs.com/)
 * [Lodash](https://lodash.com/docs)
 * [Ramda](http://ramdajs.com/docs/)
 * [Redis](https://github.com/NodeRedis/node_redis)
