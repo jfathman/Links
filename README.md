@@ -123,7 +123,6 @@
 * [Nginx](http://nginx.org/en/docs/)
 * [Twelve Factor App](http://12factor.net/)
 * [SSL Certificates](https://letsencrypt.org/)
-* [ImageMagic Node](https://github.com/aheckmann/gm)
 
 ##### IoT
 * [NATS](http://nats.io/)
@@ -141,14 +140,6 @@
 * [Duktape](http://duktape.org/)
 * [IoT.js](https://samsung.github.io/iotjs/)
  
-##### IoT Frameworks
-* [OCF](http://openconnectivity.org/)
-* [Soletta](https://solettaproject.org/)
-* [IoTivity](https://www.iotivity.org/)
-* [Ostro](https://ostroproject.org/)
-* [Zephyr](https://www.zephyrproject.org/)
-* [Snapcraft](http://snapcraft.io/)
-
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
 * [Linaro Toolchain](http://releases.linaro.org/components/toolchain/binaries/)
@@ -162,16 +153,9 @@
 * [Linux Source](https://www.kernel.org/pub/linux/kernel/v4.x/)
 * [RPi C++ Source](https://github.com/ve3wwg/raspberry_pi2)
 * [Port Linux to ARM](http://free-electrons.com/pub/conferences/2015/captronic/captronic-porting-linux-on-arm.pdf)
-* [Zephyr Project](https://www.zephyrproject.org/)
 * [PlatformIO](http://platformio.org/)
 
-##### RTOS
-* [mbed OS](https://www.mbed.com/en/development/software/mbed-os/)
-* [FreeRTOS](http://www.freertos.org/)
-* [Apache mynewt](http://mynewt.apache.org/)
-
 ##### Hardware
-* [WD 314GB HDD](http://store.wdc.com/store/wdus/en_US/DisplayAccesoryProductDetailsPage/ThemeID.21986300/Accessories/WD_314GB_PiDrive/productID.335173200/categoryId.70262300)
 * [BeagleBone](http://elinux.org/Beagleboard:BeagleBoneBlack)
 * [Arduino](http://playground.arduino.cc/)
 * [Particle](https://www.particle.io/prototype)
