@@ -41,7 +41,6 @@
 * [Async](https://github.com/caolan/async)
 * [HighlandJS](http://highlandjs.org/)
 * [PM2](http://pm2.keymetrics.io/)
-* [Foreman](https://github.com/strongloop/node-foreman)
 * [Express](http://expressjs.com/)
 * [hapi](http://hapijs.com/)
 * [Mocha](https://mochajs.org/)
