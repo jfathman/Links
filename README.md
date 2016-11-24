@@ -81,15 +81,6 @@
 * [shrinkpack](https://github.com/JamieMason/shrinkpack)
 * [np](https://github.com/sindresorhus/np)
 
-##### TypeScript
-* [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
-* [TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
-* [Definitely Typed](http://definitelytyped.org/)
-* [Typings](https://github.com/typings/typings)
-* [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
-* [TSLint](http://palantir.github.io/tslint/)
-* [Node and TypeScript](http://sharednode.org/2016/04/21/building-applications-with-node-typescript/)
-
 ##### Data Store
 * [Redis](http://redis.io/commands)
 * [LevelDB](http://leveldb.org/)
@@ -99,6 +90,15 @@
 * [Node Postgres](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres)
 * [InfluxDB](https://influxdata.com/)
 * [Node InfluxDB](https://github.com/node-influx/node-influx)
+
+##### TypeScript
+* [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
+* [TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
+* [Definitely Typed](http://definitelytyped.org/)
+* [Typings](https://github.com/typings/typings)
+* [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
+* [TSLint](http://palantir.github.io/tslint/)
+* [Node and TypeScript](http://sharednode.org/2016/04/21/building-applications-with-node-typescript/)
 
 ##### Documentation
 * [StackOverflow Documentation](http://stackoverflow.com/documentation)
