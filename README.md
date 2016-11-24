@@ -29,6 +29,7 @@
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 * [JavaScript Air](http://javascriptair.com/)
 * [Understanding ES6](https://github.com/sgaurav/understanding-es6)
+* [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
 * [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
 * [NodeSource](https://nodesource.com/resources)
 * [NodeUp](http://nodeup.com/)
@@ -66,8 +67,8 @@
 * [lru-cache](https://github.com/isaacs/node-lru-cache)
 * [log4js](https://github.com/nomiddlename/log4js-node)
 
-##### yarn / npm
-* [yarn](https://yarnpkg.com/)
+##### Package Management
+* [Yarn](https://yarnpkg.com/)
 * [npm](https://docs.npmjs.com/)
 * [npms](https://npms.io/)
 * [awesome npm](https://github.com/sindresorhus/awesome-npm)
@@ -100,7 +101,6 @@
 * [StackOverflow Documentation](http://stackoverflow.com/documentation)
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
 * [FreeBSD Handbook](https://www.freebsd.org/doc/handbook/)
-* [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
 * [Docker](https://docs.docker.com/)
 * [Kubernetes](http://kubernetes.io/docs/)
 * [Ansible](http://docs.ansible.com/ansible/)
