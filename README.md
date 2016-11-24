@@ -5,9 +5,7 @@
 
 ##### News
 * [Node Weekly](http://nodeweekly.com/issues)
-* [Reddit Node](https://www.reddit.com/r/node/)
 * [JavaScript Weekly](http://javascriptweekly.com/issues)
-* [Reddit JavaScript](https://www.reddit.com/r/javascript/)
 
 ##### Conferences
 * [Nodevember](http://nodevember.org/)
@@ -30,17 +28,12 @@
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials / Lists
 * [NodeSource](https://nodesource.com/resources)
 * [NodeUp](http://nodeup.com/)
-* [Nodevember 2015](https://www.youtube.com/user/nodevember)
 * [JavaScript Air](http://javascriptair.com/)
 * [Redux](https://egghead.io/series/getting-started-with-redux)
-* [Node.js Guides](https://nodejs.org/en/docs/guides/)
-* [Node Interactive 2015](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ?guided_help_flow=3)
 * [JavaScript Tutorial MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
-* [MQTT Node.js](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/)
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
-* [ES Discuss](https://esdiscuss.org/)
 
 ##### Node.js / JavaScript / ES6
 * [Node.js API](https://nodejs.org/api/)
