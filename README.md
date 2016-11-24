@@ -67,6 +67,9 @@
 * [lru-cache](https://github.com/isaacs/node-lru-cache)
 * [log4js](https://github.com/nomiddlename/log4js-node)
 
+##### Frameworks
+* [Ember.js](http://emberjs.com/)
+
 ##### Package Management
 * [Yarn](https://yarnpkg.com/)
 * [npm](https://docs.npmjs.com/)
