@@ -22,14 +22,13 @@
 * [Axel Rauschmayer](http://www.2ality.com/)
 
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials / Lists
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+* [JavaScript Air](http://javascriptair.com/)
+* [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
 * [NodeSource](https://nodesource.com/resources)
 * [NodeUp](http://nodeup.com/)
-* [JavaScript Air](http://javascriptair.com/)
 * [Redux](https://egghead.io/series/getting-started-with-redux)
-* [JavaScript Tutorial MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-* [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
-* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 
 ##### Node.js / JavaScript / ES6
 * [Node.js API](https://nodejs.org/api/)
