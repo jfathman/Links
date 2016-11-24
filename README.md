@@ -1,7 +1,7 @@
 ##### Node
 * [Node](https://nodejs.org/en/)
-* [Node Foundation Facebook](https://www.facebook.com/Nodejs-Foundation-979337978780579/)
 * [Node Foundation LinkedIn](https://www.linkedin.com/company/node.js-foundation)
+* [Node Foundation Facebook](https://www.facebook.com/Nodejs-Foundation-979337978780579/)
 
 ##### News
 * [Node Weekly](http://nodeweekly.com/issues)
