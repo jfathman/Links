@@ -25,8 +25,10 @@
 * [Axel Rauschmayer](http://www.2ality.com/)
 
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials / Lists
+* [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 * [JavaScript Air](http://javascriptair.com/)
+* [Understanding ES6](https://github.com/sgaurav/understanding-es6)
 * [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
 * [NodeSource](https://nodesource.com/resources)
 * [NodeUp](http://nodeup.com/)
@@ -34,9 +36,6 @@
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 
 ##### Node.js / JavaScript / ES6
-
-* [Understanding ES6](https://github.com/sgaurav/understanding-es6)
-* [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [ESLint](http://eslint.org/)
 * [RxJS](https://github.com/Reactive-Extensions/RxJS/tree/master/doc)
 * [Async](https://github.com/caolan/async)
@@ -50,7 +49,7 @@
 * [Sinon](http://sinonjs.org/docs/)
 * [AVA](https://github.com/sindresorhus/ava)
 * [lodash](https://lodash.com/docs)
-* [ioredis](https://github.com/luin/ioredis)
+* [Redis](https://github.com/NodeRedis/node_redis)
 * [Bookshelf.js](http://bookshelfjs.org/)
 * [MassiveJS](http://massive-js.readthedocs.org/en/latest/)
 * [Immutable](http://facebook.github.io/immutable-js/)
