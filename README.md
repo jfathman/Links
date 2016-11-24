@@ -19,11 +19,8 @@
 ##### Blogs
 * [NodeSource](https://nodesource.com/blog/)
 * [Axel Rauschmayer](http://www.2ality.com/)
-* [Nginx](https://www.nginx.com/blog/)
 * [Node/C++](http://blog.scottfrees.com/)
 * [RisingStack](https://blog.risingstack.com/)
-* [YLD Software](http://blog.yld.io/)
-* [Brantly TypeScript](http://www.jbrantly.com/)
 
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials / Lists
 * [NodeSource](https://nodesource.com/resources)
