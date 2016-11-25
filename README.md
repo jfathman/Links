@@ -67,6 +67,7 @@
 * [node-cache](https://github.com/tcs-de/nodecache)
 * [lru-cache](https://github.com/isaacs/node-lru-cache)
 * [log4js](https://github.com/nomiddlename/log4js-node)
+* [dotenv](https://github.com/motdotla/dotenv)
 
 ##### IoT
 * [NATS](http://nats.io/)
