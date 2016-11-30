@@ -149,6 +149,7 @@
 * [Nginx](http://nginx.org/en/docs/)
 * [Twelve Factor App](http://12factor.net/)
 * [SSL Certificates](https://letsencrypt.org/)
+* [nghttp2](https://nghttp2.org/)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
