@@ -50,6 +50,7 @@
 * [Sinon](http://sinonjs.org/docs/)
 * [AVA](https://github.com/sindresorhus/ava)
 * [Moment](http://momentjs.com/)
+* [date-fns](https://date-fns.org/)
 * [Lodash](https://lodash.com/docs)
 * [Ramda](http://ramdajs.com/docs/)
 * [Redis](https://github.com/NodeRedis/node_redis)
