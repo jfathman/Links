@@ -19,6 +19,7 @@
 * [Texas Linux Fest](http://2016.texaslinuxfest.org/)
 * [OSCON](http://conferences.oreilly.com/oscon/open-source-us)
 * [DockerCon](http://dockercon.com/)
+* [LambdaConf](http://lambdaconf.us)
 
 ##### Blogs
 * [NodeSource](https://nodesource.com/blog/)
