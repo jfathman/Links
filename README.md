@@ -26,6 +26,7 @@
 
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials / Lists
 * [StackOverflow Documentation](http://stackoverflow.com/documentation)
+* [Cooper Press](https://cooperpress.com/publications)
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 * [JavaScript Air](http://javascriptair.com/)
@@ -36,6 +37,7 @@
 * [NodeUp](http://nodeup.com/)
 * [Redux](https://egghead.io/series/getting-started-with-redux)
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
+* [PostgreSQL Primer](https://zaiste.net/2015/09/postgresql_primer_for_busy_people/)
 
 ##### Packages
 * [ESLint](http://eslint.org/)
