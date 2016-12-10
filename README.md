@@ -9,6 +9,7 @@
 ##### News
 * [Node Weekly](http://nodeweekly.com/issues)
 * [JavaScript Weekly](http://javascriptweekly.com/issues)
+* [Cooper Press](https://cooperpress.com/publications)
 
 ##### Conferences
 * [Nodevember](http://nodevember.org/)
@@ -16,10 +17,11 @@
 * [Node Summit](http://nodesummit.com/)
 * [OpenIoT Summit](http://events.linuxfoundation.org/events/openiot-summit)
 * [Embedded Linux Conference](http://events.linuxfoundation.org/events/embedded-linux-conference)
-* [Texas Linux Fest](http://2016.texaslinuxfest.org/)
-* [OSCON](http://conferences.oreilly.com/oscon/open-source-us)
 * [DockerCon](http://dockercon.com/)
 * [LambdaConf](http://lambdaconf.us)
+* [EmberConf](http://emberconf.com/)
+* [Texas Linux Fest](http://2016.texaslinuxfest.org/)
+* [OSCON](http://conferences.oreilly.com/oscon/open-source-us)
 
 ##### Blogs
 * [NodeSource](https://nodesource.com/blog/)
@@ -28,7 +30,6 @@
 
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials / Lists
 * [StackOverflow Documentation](http://stackoverflow.com/documentation)
-* [Cooper Press](https://cooperpress.com/publications)
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 * [JavaScript Air](http://javascriptair.com/)
@@ -172,6 +173,9 @@
 * [PlatformIO](http://platformio.org/)
 
 ##### Hardware
+* [nRF52-DK](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF52-DK)
+* [Arduino Primo](http://www.arduino.org/products/boards/arduino-primo)
+* [ESP32](https://espressif.com/en/products/hardware/esp32/resources)
 * [BeagleBone](http://elinux.org/Beagleboard:BeagleBoneBlack)
 * [Arduino](http://playground.arduino.cc/)
 * [Particle](https://www.particle.io/prototype)
@@ -181,8 +185,6 @@
 * [Circuit Lab](https://www.circuitlab.com/)
 * [element14](http://www.newark.com/?COM=element14_store_Home)
 * [Electronics Tutorials](http://www.electronics-tutorials.ws/)
-* [nRF52-DK](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF52-DK)
-* [Arduino Primo](http://www.arduino.org/products/boards/arduino-primo)
 
 ##### Raspberry Pi
 * [doc](https://www.raspberrypi.org/documentation/)
