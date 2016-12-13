@@ -27,6 +27,7 @@
 * [NodeSource](https://nodesource.com/blog/)
 * [RisingStack](https://blog.risingstack.com/)
 * [Axel Rauschmayer](http://www.2ality.com/)
+* [Preethi Kasireddy](https://medium.com/@preethikasireddy/latest)
 
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials / Lists
 * [StackOverflow Documentation](http://stackoverflow.com/documentation)
@@ -60,6 +61,7 @@
 * [Ramda](http://ramdajs.com/docs/)
 * [Redis](https://github.com/NodeRedis/node_redis)
 * [Bookshelf.js](http://bookshelfjs.org/)
+* [Knex.js](http://knexjs.org/)
 * [MassiveJS](http://massive-js.readthedocs.org/en/latest/)
 * [Immutable](http://facebook.github.io/immutable-js/)
 * [ShellJS](http://documentup.com/shelljs/shelljs)
