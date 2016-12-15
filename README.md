@@ -59,6 +59,7 @@
 * [date-fns](https://date-fns.org/)
 * [Lodash](https://lodash.com/docs)
 * [Ramda](http://ramdajs.com/docs/)
+* [Voca](https://vocajs.com/)
 * [Redis](https://github.com/NodeRedis/node_redis)
 * [Bookshelf.js](http://bookshelfjs.org/)
 * [Knex.js](http://knexjs.org/)
