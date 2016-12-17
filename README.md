@@ -77,6 +77,7 @@
 * [lru-cache](https://github.com/isaacs/node-lru-cache)
 * [log4js](https://github.com/nomiddlename/log4js-node)
 * [dotenv](https://github.com/motdotla/dotenv)
+* [math.js](http://mathjs.org/docs/index.html)
 
 ##### IoT
 * [NATS](http://nats.io/)
