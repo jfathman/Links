@@ -36,6 +36,7 @@
 * [JavaScript Air](http://javascriptair.com/)
 * [Understanding ES6](https://github.com/sgaurav/understanding-es6)
 * [Functional Programming](https://github.com/hemanth/functional-programming-jargon)
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
 * [NodeSource](https://nodesource.com/resources)
 * [NodeUp](http://nodeup.com/)
