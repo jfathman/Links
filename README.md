@@ -161,6 +161,7 @@
 * [Twelve Factor App](http://12factor.net/)
 * [SSL Certificates](https://letsencrypt.org/)
 * [nghttp2](https://nghttp2.org/)
+* [regex101](https://regex101.com/)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
