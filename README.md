@@ -95,6 +95,7 @@
 * [LoRa Node](https://github.com/sandeepmistry/node-sx127x)
 * [Duktape](http://duktape.org/)
 * [IoT.js](https://samsung.github.io/iotjs/)
+* [Etcher](https://etcher.io/)
 
 ##### Serverless
 * [Fission](http://fission.io/)
