@@ -95,6 +95,7 @@
 * [LoRa Node](https://github.com/sandeepmistry/node-sx127x)
 * [Duktape](http://duktape.org/)
 * [IoT.js](https://samsung.github.io/iotjs/)
+* [JavaScript on mbed](https://developer.mbed.org/javascript-on-mbed/)
 * [Etcher](https://etcher.io/)
 
 ##### Serverless
