@@ -20,7 +20,8 @@
 * [DockerCon](http://dockercon.com/)
 * [LambdaConf](http://lambdaconf.us)
 * [EmberConf](http://emberconf.com/)
-* [Texas Linux Fest](http://2016.texaslinuxfest.org/)
+* [ServerlessConf](http://serverlessconf.io/)
+* [Texas Linux Fest](http://texaslinuxfest.org/)
 * [OSCON](http://conferences.oreilly.com/oscon/open-source-us)
 
 ##### Blogs
