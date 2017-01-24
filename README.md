@@ -80,6 +80,7 @@
 * [log4js](https://github.com/nomiddlename/log4js-node)
 * [dotenv](https://github.com/motdotla/dotenv)
 * [math.js](http://mathjs.org/docs/index.html)
+* [EJS](http://ejs.co/)
 
 ##### IoT
 * [NATS](http://nats.io/)
