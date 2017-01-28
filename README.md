@@ -201,6 +201,7 @@
 * [BCM2835](https://www.raspberrypi.org/wp-content/uploads/2012/02/BCM2835-ARM-Peripherals.pdf)
 * [errata](http://elinux.org/BCM2835_datasheet_errata)
 * [elinux](http://elinux.org/RPi_Hub)
+* [PiBakery](http://www.pibakery.org/)
 
 ##### Design Tools
 * [KiCad EDA](http://kicad-pcb.org/)
