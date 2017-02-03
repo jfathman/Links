@@ -166,6 +166,8 @@
 * [SSL Certificates](https://letsencrypt.org/)
 * [nghttp2](https://nghttp2.org/)
 * [regex101](https://regex101.com/)
+* [CodePen](http://codepen.io/pen/)
+* [JSFiddle](https://jsfiddle.net/)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
