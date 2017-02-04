@@ -107,6 +107,7 @@
 
 ##### Frameworks
 * [Ember.js](http://emberjs.com/)
+* [Vue.js](https://vuejs.org/)
 
 ##### Data Store
 * [Redis](http://redis.io/commands)
