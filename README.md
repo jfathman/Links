@@ -29,6 +29,7 @@
 * [RisingStack](https://blog.risingstack.com/)
 * [Axel Rauschmayer](http://www.2ality.com/)
 * [Preethi Kasireddy](https://medium.com/@preethikasireddy/latest)
+* [Alligator](https://alligator.io/)
 
 ##### Webinars / Podcasts / Presentations / Guides / Tutorials / Lists
 * [StackOverflow Documentation](http://stackoverflow.com/documentation)
