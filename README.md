@@ -58,6 +58,7 @@
 * [Chai](http://chaijs.com/)
 * [Sinon](http://sinonjs.org/docs/)
 * [AVA](https://github.com/sindresorhus/ava)
+* [Jest](https://facebook.github.io/jest/)
 * [Moment](http://momentjs.com/)
 * [date-fns](https://date-fns.org/)
 * [Lodash](https://lodash.com/docs)
