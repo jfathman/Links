@@ -171,6 +171,7 @@
 * [regex101](https://regex101.com/)
 * [CodePen](http://codepen.io/pen/)
 * [JSFiddle](https://jsfiddle.net/)
+* [JS Bin](https://jsbin.com/)
 * [Postman](https://www.getpostman.com/)
 
 ##### Embedded
