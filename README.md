@@ -145,6 +145,7 @@
 * [Rust](https://www.rust-lang.org/en-US/)
 * [rustup](https://github.com/rust-lang-nursery/rustup.rs)
 * [rust.vim](https://github.com/rust-lang/rust.vim)
+* [vim-toml](https://github.com/cespare/vim-toml)
 * [Rust by Example](http://rustbyexample.com/index.html)
 
 ##### Documentation
