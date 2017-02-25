@@ -148,6 +148,7 @@
 * [vim-toml](https://github.com/cespare/vim-toml)
 * [Rust by Example](http://rustbyexample.com/index.html)
 * [crates](https://crates.io/)
+* [Rust on BBC Micro:bit](https://github.com/SimonSapin/rust-on-bbc-microbit)
 
 ##### Documentation
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
