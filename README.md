@@ -23,6 +23,7 @@
 * [ServerlessConf](http://serverlessconf.io/)
 * [Texas Linux Fest](http://texaslinuxfest.org/)
 * [OSCON](http://conferences.oreilly.com/oscon/open-source-us)
+* [RustConf](http://rustconf.com/)
 
 ##### Blogs
 * [NodeSource](https://nodesource.com/blog/)
@@ -139,6 +140,12 @@
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
 * [TSLint](http://palantir.github.io/tslint/)
 * [Node and TypeScript](http://sharednode.org/2016/04/21/building-applications-with-node-typescript/)
+
+##### Rust
+* [Rust](https://www.rust-lang.org/en-US/)
+* [rustup](https://github.com/rust-lang-nursery/rustup.rs)
+* [rust.vim](https://github.com/rust-lang/rust.vim)
+* [Rust by Example](http://rustbyexample.com/index.html)
 
 ##### Documentation
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
