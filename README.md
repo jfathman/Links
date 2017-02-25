@@ -148,6 +148,7 @@
 * [vim-toml](https://github.com/cespare/vim-toml)
 * [Rust by Example](http://rustbyexample.com/index.html)
 * [crates](https://crates.io/)
+* [Rust on IoT](https://www.reddit.com/r/rust/comments/567fsz/the_state_of_rust_on_embedded_devices_and_iot/)
 * [Rust on BBC Micro:bit](https://github.com/SimonSapin/rust-on-bbc-microbit)
 
 ##### Documentation
