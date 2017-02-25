@@ -146,6 +146,7 @@
 * [rustup](https://github.com/rust-lang-nursery/rustup.rs)
 * [rust.vim](https://github.com/rust-lang/rust.vim)
 * [vim-toml](https://github.com/cespare/vim-toml)
+* [Programming Rust](http://shop.oreilly.com/product/0636920040385.do)
 * [Rust by Example](http://rustbyexample.com/index.html)
 * [crates](https://crates.io/)
 * [Rust on IoT](https://www.reddit.com/r/rust/comments/567fsz/the_state_of_rust_on_embedded_devices_and_iot/)
