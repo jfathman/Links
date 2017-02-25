@@ -147,6 +147,7 @@
 * [rust.vim](https://github.com/rust-lang/rust.vim)
 * [vim-toml](https://github.com/cespare/vim-toml)
 * [Rust by Example](http://rustbyexample.com/index.html)
+* [crates](https://crates.io/)
 
 ##### Documentation
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
