@@ -151,6 +151,7 @@
 * [crates](https://crates.io/)
 * [Rust on IoT](https://www.reddit.com/r/rust/comments/567fsz/the_state_of_rust_on_embedded_devices_and_iot/)
 * [Rust on BBC Micro:bit](https://github.com/SimonSapin/rust-on-bbc-microbit)
+* [Rust Playground](https://play.rust-lang.org/)
 
 ##### Documentation
 * [Debian Handbook](https://www.debian.org/doc/manuals/debian-handbook/)
