@@ -46,6 +46,7 @@
 * [Redux](https://egghead.io/series/getting-started-with-redux)
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 * [PostgreSQL Primer](https://zaiste.net/2015/09/postgresql_primer_for_busy_people/)
+* [Ansible Tutorial](https://serversforhackers.com/an-ansible-tutorial)
 
 ##### Packages
 * [ESLint](http://eslint.org/)
