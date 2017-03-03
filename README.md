@@ -47,6 +47,8 @@
 * [Deploy Node on Linux](https://certsimple.com/blog/deploy-node-on-linux)
 * [PostgreSQL Primer](https://zaiste.net/2015/09/postgresql_primer_for_busy_people/)
 * [Ansible Tutorial](https://serversforhackers.com/an-ansible-tutorial)
+* [Node Runtime](https://medium.freecodecamp.com/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69)
+* [Advanced Node.js](https://www.pluralsight.com/courses/nodejs-advanced)
 
 ##### Packages
 * [ESLint](http://eslint.org/)
