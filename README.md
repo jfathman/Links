@@ -87,6 +87,7 @@
 * [dotenv](https://github.com/motdotla/dotenv)
 * [math.js](http://mathjs.org/docs/index.html)
 * [EJS](http://ejs.co/)
+* [Axios](https://github.com/mzabriskie/axios)
 
 ##### IoT
 * [NATS](http://nats.io/)
