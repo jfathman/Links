@@ -107,6 +107,10 @@
 * [JavaScript on mbed](https://developer.mbed.org/javascript-on-mbed/)
 * [Etcher](https://etcher.io/)
 
+##### IoT Frameworks
+* [EdgeX Foundry](https://www.edgexfoundry.org/)
+* [IoTivity](https://www.iotivity.org/)
+
 ##### Serverless
 * [Fission](http://fission.io/)
 * [Iron.io](https://www.iron.io/)
