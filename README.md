@@ -194,6 +194,7 @@
 * [JSFiddle](https://jsfiddle.net/)
 * [JS Bin](https://jsbin.com/)
 * [Postman](https://www.getpostman.com/)
+* [JS Equality Table](http://dorey.github.io/JavaScript-Equality-Table/)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
