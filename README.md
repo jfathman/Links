@@ -197,6 +197,7 @@
 * [Postman](https://www.getpostman.com/)
 * [JS Equality Table](http://dorey.github.io/JavaScript-Equality-Table/)
 * [Node Project Guidelines](https://github.com/wearehive/project-guidelines)
+* [JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
