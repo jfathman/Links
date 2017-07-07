@@ -198,6 +198,7 @@
 * [JS Equality Table](http://dorey.github.io/JavaScript-Equality-Table/)
 * [Node Project Guidelines](https://github.com/wearehive/project-guidelines)
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [JavaScript Code Formatter](https://github.com/prettier/prettier)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
