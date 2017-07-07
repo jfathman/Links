@@ -196,6 +196,7 @@
 * [JS Bin](https://jsbin.com/)
 * [Postman](https://www.getpostman.com/)
 * [JS Equality Table](http://dorey.github.io/JavaScript-Equality-Table/)
+* [Node Project Guidelines](https://github.com/wearehive/project-guidelines)
 
 ##### Embedded
 * [EmbToolkit](https://embtoolkit.org/)
