@@ -236,6 +236,9 @@
 * [elinux](http://elinux.org/RPi_Hub)
 * [PiBakery](http://www.pibakery.org/)
 
+##### ARTIK 5
+* [artik.io](https://www.artik.io/)
+
 ##### Design Tools
 * [KiCad EDA](http://kicad-pcb.org/)
 * [Eagle](http://www.cadsoftusa.com/eagle-pcb-design-software/)
