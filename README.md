@@ -49,6 +49,7 @@
 * [Ansible Tutorial](https://serversforhackers.com/an-ansible-tutorial)
 * [Node Runtime](https://medium.freecodecamp.com/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69)
 * [Advanced Node.js](https://www.pluralsight.com/courses/nodejs-advanced)
+* [ES6 Features](http://es6-features.org/)
 
 ##### Packages
 * [ESLint](http://eslint.org/)
@@ -195,6 +196,7 @@
 * [JSFiddle](https://jsfiddle.net/)
 * [JS Bin](https://jsbin.com/)
 * [Postman](https://www.getpostman.com/)
+* [Insomnia](https://insomnia.rest/)
 * [JS Equality Table](http://dorey.github.io/JavaScript-Equality-Table/)
 * [Node Project Guidelines](https://github.com/wearehive/project-guidelines)
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
